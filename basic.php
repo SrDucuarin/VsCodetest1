@@ -5,7 +5,7 @@ $oped = 0;
 $operator = 0;
 
 function stConvert($x) {
-    return $x * 24;
+    return $x * 26;
 }
 
 function ndConvert($x) {
