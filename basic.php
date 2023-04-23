@@ -27,6 +27,7 @@ function stMenu() {
 
 $stMenu = stMenu();
 $operator = fgets(STDIN);
+print("lamama de la mamam de la mama")
 
 switch($operator) {
     
