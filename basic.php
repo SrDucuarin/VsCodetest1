@@ -46,7 +46,7 @@ switch($operator) {
     case 3:
         print("Ingrese los minutos a convertir : ");
         $Oped = fgets(STDIN);
-        print("Los minutos ingresados corresponden a " . rdConvert($Oped)) . " segundos";
+        print("Los minutos ingresados corresponden a " . rdConvert($Oped)) . " segundos blabla";
         break;
         
     case 4:
